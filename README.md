@@ -117,11 +117,11 @@ Abra o arquivo `02_importar_csv.py` e edite o bloco de configuração:
 
 ```python
 DB_CONFIG = {
-    "host":     "localhost",
-    "port":     3306,
-    "user":     "root",          # seu usuário MySQL
-    "password": "sua_senha",     # sua senha MySQL
-    "database": "suicidios_brasil",
+    "host":     "",
+    "port":  "",
+    "user":     "",          # seu usuário MySQL
+    "password": "",     # sua senha MySQL
+    "database": "",
 }
 
 CSV_PATH = "suicidios_2010_a_2019.csv"  # caminho para o arquivo CSV
