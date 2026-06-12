@@ -121,7 +121,7 @@ DB_CONFIG = {
     "port":  "",
     "user":     "",          # seu usuário MySQL
     "password": "",     # sua senha MySQL
-    "database": "",
+    "database": "suicidios_brasil",
 }
 
 CSV_PATH = "suicidios_2010_a_2019.csv"  # caminho para o arquivo CSV
